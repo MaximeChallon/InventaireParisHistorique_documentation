@@ -1,6 +1,6 @@
 ---
 layout: home
 title: "Accueil"
-permalink: /home
+permalink: /
 ---
 Vous êtes sur la documentation de l'**inventaire du Paris Historique**.
