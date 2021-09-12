@@ -284,7 +284,7 @@ DROP TABLE IF EXISTS `activite` ;
 
 CREATE TABLE IF NOT EXISTS `activite` (
   `activiteid` VARCHAR(36) NOT NULL,
-  `activittetype` VARCHAR(45) NOT NULL,
+  `activitetype` VARCHAR(45) NOT NULL,
   `activitedate` DATETIME NOT NULL,
   `activitecomment`VARCHAR(50) NULL,
   `agentid` VARCHAR(45) NOT NULL,
